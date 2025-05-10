@@ -8,3 +8,22 @@ Personl information:
 5. Email - Jangidpayal355@gmail.com
 6. Github - github.com/Payal-321
 7. Linkedln - linkedin.com/in/me
+
+Technical Skills:
+1.Programming Languages - Python,R
+Data Analysis & Visualization - Mysql,RDBMS
+Code Editior - VS-Code,pgAdmin4,github
+
+Project:
+1.
+2.
+
+
+Certifications:
+1.Python-course by geekster.
+2.Human Resourse skills workshop at tareeqa global solution PVT.LTD.
+
+Achievements & Awards:
+1. Spoken Tutorial Project,IIT Bombay,funded by National Mission on Education
+ through ICT,MHRD,govt.,of India
+
