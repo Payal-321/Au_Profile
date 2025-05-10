@@ -1,4 +1,5 @@
 Its a blueprint of my Personal Data.
+
 Personl information:
 1. Name - Payal Kumari jangid.
 2. Education - Master of science(Information technology).
