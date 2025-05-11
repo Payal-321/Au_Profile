@@ -12,11 +12,11 @@ Personl information:
 
 Technical Skills:
 
- 1.Programming Languages - Python,R.
+  1.Programming Languages - Python,R.
  
- 2.Data Analysis & Visualization - Mysql,RDBMS.
+  2.Data Analysis & Visualization - Mysql,RDBMS.
  
- 3.Code Editior - VS-Code,pgAdmin4,github.
+  3.Code Editior - VS-Code,pgAdmin4,github.
 
 Project:
 
