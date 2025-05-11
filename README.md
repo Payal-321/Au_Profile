@@ -13,9 +13,7 @@ Personl information:
 Technical Skills:
 
 1.Programming Languages - Python,R
-
 2.Data Analysis & Visualization - Mysql,RDBMS
-
 3.Code Editior - VS-Code,pgAdmin4,github
 
 Project:
@@ -27,7 +25,6 @@ Project:
 Certifications:
 
 1.Python-course by geekster.
-
 2.Human Resourse skills workshop at tareeqa global solution PVT.LTD.
 
 Achievements & Awards:
