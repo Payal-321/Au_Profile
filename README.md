@@ -7,7 +7,7 @@ Personl information:
 4. Location - Jaipur,Rajasthan.
 5. Email - Jangidpayal355@gmail.com
 6. Github - github.com/Payal-321
-7. Linkedln - linkedin.com/in/payal-kumari-jangid
+7. Linkedln - linkedin.com/in/payal-kumari-jangid-b418b22a3
 
 Technical Skills:
 1.Programming Languages - Python,R
