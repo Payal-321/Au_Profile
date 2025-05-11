@@ -13,8 +13,8 @@ Personl information:
 Technical Skills:
 
 1.Programming Languages - Python,R
-Data Analysis & Visualization - Mysql,RDBMS
-Code Editior - VS-Code,pgAdmin4,github
+2.Data Analysis & Visualization - Mysql,RDBMS
+3.Code Editior - VS-Code,pgAdmin4,github
 
 Project:
 
@@ -31,4 +31,4 @@ Achievements & Awards:
 
 1. Spoken Tutorial Project,IIT Bombay,funded by National Mission on Education
  through ICT,MHRD,govt.,of India
-
+2.
