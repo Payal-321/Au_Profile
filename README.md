@@ -1,6 +1,7 @@
 Its a blueprint of my Personal Data.
 
 Personl information:
+
 1. Name - Payal Kumari jangid.
 2. Education - Master of science(Information technology).
 3. University - University of Rajasthan.
@@ -10,20 +11,24 @@ Personl information:
 7. Linkedln - linkedin.com/in/payal-kumari-jangid-b418b22a3
 
 Technical Skills:
+
 1.Programming Languages - Python,R
 Data Analysis & Visualization - Mysql,RDBMS
 Code Editior - VS-Code,pgAdmin4,github
 
 Project:
+
 1.
 2.
 
 
 Certifications:
+
 1.Python-course by geekster.
 2.Human Resourse skills workshop at tareeqa global solution PVT.LTD.
 
 Achievements & Awards:
+
 1. Spoken Tutorial Project,IIT Bombay,funded by National Mission on Education
  through ICT,MHRD,govt.,of India
 
