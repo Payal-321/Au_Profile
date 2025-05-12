@@ -20,8 +20,7 @@ Technical Skills:
 
 Project:
 
- 1.
- 2.
+ 1.Automated Teller Machine.
 
 
 Certifications:
