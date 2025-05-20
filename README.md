@@ -21,6 +21,12 @@ Technical Skills:
 Project:
 
  1.Automated Teller Machine.
+ 
+ 2.Currency exchange in INR.
+
+ 3.Search ip address in log file.
+
+ 4.Weather App.
 
 
 Certifications:
