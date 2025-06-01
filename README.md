@@ -7,8 +7,8 @@ Personl information:
  3. University - University of Rajasthan.
  4. Location - Jaipur,Rajasthan.
  5. Email - Jangidpayal355@gmail.com
- 6. Github - github.com/Payal-321
- 7. Linkedln - linkedin.com/in/payal-kumari-jangid-b418b22a3
+ 6. Github - github
+ 7. Linkedln - linkedin
 
 Technical Skills:
 
@@ -17,6 +17,8 @@ Technical Skills:
   2.Data Analysis & Visualization - Mysql,RDBMS.
  
   3.Code Editior - VS-Code,pgAdmin4,github.
+  
+  4.Tools - power BI,excel.
 
 Project:
 
