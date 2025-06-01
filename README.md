@@ -8,7 +8,7 @@ Personl information:
  4. Location - Jaipur,Rajasthan.
  5. Email - Jangidpayal355@gmail.com
  6. Github - github
- 7. Linkedln - linkedin
+ 7. Linkedln - payalkumarijangid
 
 Technical Skills:
 
