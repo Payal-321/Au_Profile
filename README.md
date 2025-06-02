@@ -1,43 +1,10 @@
-Its a blueprint of my Personal Data.
+👋 Hi, I'm Payal kumari jangid.
 
-Personl information:
+Data Scientist | ML Enthusiast | Data-Driven Problem Solver.
 
- 1. Name - Payal Kumari jangid.
- 2. Education - Master of science(Information technology).
- 3. University - University of Rajasthan.
- 4. Location - Jaipur,Rajasthan.
- 5. Email - Jangidpayal355@gmail.com
- 6. Github - github
- 7. Linkedln - payalkumarijangid
+🔍 I build models, clean data, and extract insights.  
+💡 Passionate about AI, ML, and real-world applications.  
+🛠️ Python, Pandas, scikit-learn, SQL, TensorFlow, Docker
 
-Technical Skills:
-
-  1.Programming Languages - Python,R.
- 
-  2.Data Analysis & Visualization - Mysql,RDBMS.
- 
-  3.Code Editior - VS-Code,pgAdmin4,github.
-  
-  4.Tools - power BI,excel.
-
-Project:
-
- 1.Automated Teller Machine.
- 
- 2.Currency exchange in INR.
-
- 3.Search ip address in log file.
-
- 4.Weather App.
-
-
-Certifications:
-
- 1.Basics Python-course by geekster.
- 
- 2.Human Resourse skills workshop at tareeqa global solution PVT.LTD.
-
-Achievements & Awards:
-
- 1. Spoken Tutorial Project,IIT Bombay,ICT,MHRD,govt.,of India.
- 
+📁 Check out my projects below!  
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/payalkumarijangid/) | [Email](mailto:jangidpayal355@email.com)
