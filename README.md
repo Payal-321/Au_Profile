@@ -4,7 +4,7 @@ Data Scientist | ML Enthusiast | Data-Driven Problem Solver.
 
 🔍 I build models, clean data, and extract insights.  
 💡 Passionate about AI, ML, and real-world applications.  
-🛠️ Python, Pandas, scikit-learn, SQL
+🛠️ Python, Pandas, scikit-learn, SQL.
 
 📁 Check out my profile below!  
 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/payalkumarijangid/) | [Email](mailto:jangidpayal355@email.com)
