@@ -46,7 +46,7 @@ I’m a passionate and detail-oriented *Data Analyst* dedicated to turning raw d
 
 - 📧 Email: [jangidpayal355@gmail.com](mailto:jangidpayal355@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/payalkumarijangid/] 
-- 💻 GitHub: [github.com/PayalJangid](https://github.com/PayalJangid)
+- 💻 GitHub: [https://github.com/Payal-321]
 
 ---
 
