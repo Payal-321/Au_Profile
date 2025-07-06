@@ -50,7 +50,7 @@ I’m a passionate and detail-oriented *Data Analyst* dedicated to turning raw d
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub States
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayalJangid&layout=compact&theme=default)
 
